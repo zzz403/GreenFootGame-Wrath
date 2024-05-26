@@ -10,6 +10,21 @@ The narrative of **Wrath** weaves deep themes of rebellion and justice, portrayi
 
 Embark on the adventure in **Wrath** and aid the princess in shattering the chains of oppression. Prove that even in the darkest depths, light can triumph.
 
+## Screenshots
+
+### Level Design
+Here is a sneak peek at one of the intricate level designs in **Wrath**:
+![Level Design](./image/pic1.png)
+
+### Character Art
+Meet our heroine, the princess from the underworld, in her character art below:
+![Character Art](./image/pic2.png)
+
+### Game Action
+Experience the intense gameplay with this screenshot from **Wrath**:
+![Gameplay Screenshot](./image/pic3.png)
+
+
 ## Installation
 
 To embark on your journey in **Wrath**, ensure your computer is equipped with Java and Greenfoot. Follow the steps below to set up the game:
