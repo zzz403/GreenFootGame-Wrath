@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ContrlCenter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ContrlCenter\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ContrlCenter()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=i
+comment3.target=java.lang.String\ getKeys(int)
+comment4.params=i
+comment4.target=int\ getHP(int)
+comment5.params=i
+comment5.target=int\ getEnemieDamage(int)
+comment6.params=i
+comment6.target=int\ getPlayerCooling(int)
+comment7.params=i
+comment7.target=int\ getEnemieCooling(int)
+comment8.params=i
+comment8.target=int\ getPlayerSkillRange(int)
+comment9.params=i
+comment9.target=int\ getPlayerDamage(int)
+numComments=10

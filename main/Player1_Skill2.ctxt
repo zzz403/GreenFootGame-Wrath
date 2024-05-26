@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Player1_Skill2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player1_Skill2\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Player1_Skill2()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Player1_Skill2\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ skill2_strat()
+comment4.params=
+comment4.target=void\ skill2()
+numComments=5

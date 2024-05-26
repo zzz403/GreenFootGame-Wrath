@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Boss_HP
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Boss_HP\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ b
+comment1.target=Boss_HP(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ satan()
+comment4.params=hp
+comment4.target=void\ changeColar(int)
+comment5.params=
+comment5.target=void\ enyo()
+comment6.params=i
+comment6.target=void\ movement(int)
+numComments=7

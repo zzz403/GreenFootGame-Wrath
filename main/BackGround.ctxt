@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BackGround
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BackGround\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ BackGround\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ movetion()
+comment3.params=speed
+comment3.target=void\ changeMove(int)
+comment4.params=
+comment4.target=int\ getBackWidth()
+comment5.params=
+comment5.target=int\ returnLes()
+comment6.params=
+comment6.target=int\ returnMax()
+numComments=7

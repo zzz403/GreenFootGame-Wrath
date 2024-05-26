@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EXP
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ EXP1\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=EXP()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ creat()
+comment4.params=
+comment4.target=void\ go()
+numComments=5
